@@ -50,7 +50,7 @@ namespace Griglie_Combo_Auto_Completamento.Controllers
             ObjUtente3.Country = "Italia";
             ObjUtente3.City = "Catania";
             ObjUtente3.EmailID = "caruba.it";
-           // ObjUtente3.id = 3;
+           // ObjUtente3.id = 3;/aaa
             var LstUtente = new List<Utente>();
             LstUtente.Add(ObjUtente1);
             LstUtente.Add(ObjUtente2);
